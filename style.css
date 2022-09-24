@@ -61,7 +61,7 @@ body{
     text-align: center;
 }
 .section-container > p{
-    font-size: 14px;
+    font-size: 1.3rem;
 }
 #projects-grid{
     display: flex;
